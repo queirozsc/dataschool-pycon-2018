@@ -1,5 +1,5 @@
 # dataschool-pycon-2018
-Practice from Kevin Markham's PyCon 2018 workshop
+Practice from Kevin Markham's PyCon Cleveland 2018 workshop
 
 ## What datasets are we using?
 
